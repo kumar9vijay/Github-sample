@@ -13,6 +13,7 @@ if(strlen($exp[1]) < 4) {
 }
 
 echo implode("-", array($exp[0], $a) );
-echo 'test';
+echo 'testing';
+echo 'github';
 exit;
 ?>
